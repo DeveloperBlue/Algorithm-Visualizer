@@ -1,1 +1,2 @@
-# Algorithm-Visualizer
+# Algorithm-Visualizer 
+Naglis #1
